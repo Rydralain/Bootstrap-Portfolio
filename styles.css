@@ -1,0 +1,12 @@
+.middleStuff{
+    margin: 0 auto;
+}
+
+.cardWidth{
+    max-width: 200px;
+    margin: 5px;
+}
+
+#bottomBarText{
+    margin: 0 auto;
+}
